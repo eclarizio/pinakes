@@ -6,6 +6,7 @@ from django.contrib.auth import get_user_model
 from django.utils.translation import gettext_noop
 from drf_spectacular.utils import extend_schema_field, OpenApiTypes
 from django.utils.translation import gettext_noop
+from drf_spectacular.utils import extend_schema_field, OpenApiTypes
 
 models.CharField.register_lookup(Length)
 

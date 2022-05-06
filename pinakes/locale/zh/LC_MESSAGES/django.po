@@ -3,10 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-<<<<<<< HEAD
-=======
-#, fuzzy
->>>>>>> 7cc91e4 (Add i18n support for source detail page)
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -16,10 +12,6 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
-<<<<<<< HEAD
-=======
-"MIME-Version: 1.0\n"
->>>>>>> 7cc91e4 (Add i18n support for source detail page)
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -227,11 +219,6 @@ msgstr "只有子级别请求可以被标记为错误"
 #: pinakes/main/approval/services/email_notification.py:91
 msgid "Failed to email group {}"
 msgstr "为组 {} 发送电子邮件失败"
-=======
-#: pinakes/main/approval/services/email_notification.py:91
-msgid "Failed to email group {}"
-msgstr ""
->>>>>>> 7cc91e4 (Add i18n support for source detail page)
 
 #: pinakes/main/approval/services/update_request.py:19
 msgid "Auto-approved"
@@ -239,19 +226,11 @@ msgstr "自动批准"
 
 #: pinakes/main/approval/validations.py:56
 msgid "Group id {} does not exist"
-<<<<<<< HEAD
 msgstr "组 id {} 不存在"
 
 #: pinakes/main/approval/validations.py:64
 msgid "Group {} does not have approver role"
 msgstr "group {} 没有批准角色"
-=======
-msgstr ""
-
-#: pinakes/main/approval/validations.py:64
-msgid "Group {} does not have approver role"
-msgstr ""
->>>>>>> 7cc91e4 (Add i18n support for source detail page)
 
 #: pinakes/main/approval/views.py:188
 msgid "Insufficient resource object params: {}"
@@ -357,13 +336,10 @@ msgstr "OrderItem"
 msgid "Order {} is not cancel able in its current state: {}"
 msgstr "订购 {} 无法取消其当前状态：{}"
 
-<<<<<<< HEAD
-=======
 #: pinakes/main/catalog/services/cancel_order.py:61
 msgid "Order {} is not cancelable in its current state: {}"
 msgstr ""
 
->>>>>>> 7cc91e4 (Add i18n support for source detail page)
 #: pinakes/main/catalog/services/collect_tag_resources.py:62
 msgid "Portfolio item {} does not have related service offering"
 msgstr "portfolio 项 {} 没有相关的服务"
